@@ -2,28 +2,32 @@
 require("dotenv").config();
 
 const fs = require("fs");
-const key = require("./keys");
 
 // Requiring Spotify function exported from spotify.js
-const mySpotify = require("./spotify");
+// const mySpotify = require("./spotify.js");
 // Requiring Concert function exported from concert.js
-const myConcert = require("./concert");
+const myConcert = require("concert.js");
 // Requiring Movie function exported from movie.js
-const myConcert = require("./movie");
-
-//Requiring data from node-spotify-api. Moved this to sptofiy.js
-// const Spotify = require("node-spotify-api");
-const moment = require("moment");
-const axios = require("axios");
-const spotify = new Spotify(key.spotify);
-const parms = process.argv.splice(3).join(" ");
+// const myMovies = require("./movie.js");
 
 // ----------------application runing---------------
 
-App(process.argv[2], parms);
+const typeCommand = process.argv[2];
+var userInput = process.argv.splice(3, process.argv.length).join(" ");
 
 // ----------------function definition---------------
 
-function App(command, parameters) {}
+switch (typeCommand) {
+  // help
+
+  //concert-this
+  case "concert-this":
+    myConcert(userInput);
+    break;
+
+  //spotify-this-song
+
+  //movie - this;
+}
 
 // ----------------function---------------

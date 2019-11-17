@@ -8,3 +8,7 @@ exports.omdb = {
   id: process.env.OMBD_ID
 };
 // console.log("OMBD api is ready!");
+
+exports.bandsInTown = {
+  id: process.env.BANDS_IN_TOWN_ID
+};
