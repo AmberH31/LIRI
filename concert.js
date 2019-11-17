@@ -1,4 +1,5 @@
 const fs = require("fs");
+const keys = require("./keys");
 const axios = require("axios");
 const moment = require("moment"); //抓到時間資料
 
@@ -6,7 +7,7 @@ function myConcert(userInput) {
   //https://rest.bandsintown.com/artists/incubus/events?app_id=codingbootcamp
   var URL =
     "https://rest.bandsintown.com/artists/" +
-    artist +
+    userInput +
     "/events?app_id=" +
     keys.bandsInTown.id;
 

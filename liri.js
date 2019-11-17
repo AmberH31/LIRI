@@ -6,7 +6,7 @@ const fs = require("fs");
 // Requiring Spotify function exported from spotify.js
 // const mySpotify = require("./spotify.js");
 // Requiring Concert function exported from concert.js
-const myConcert = require("concert.js");
+const myConcert = require("./concert.js");
 // Requiring Movie function exported from movie.js
 // const myMovies = require("./movie.js");
 
@@ -19,7 +19,8 @@ var userInput = process.argv.splice(3, process.argv.length).join(" ");
 
 switch (typeCommand) {
   // help
-
+  case "help":
+    console.log("Please type the command!");
   //concert-this
   case "concert-this":
     myConcert(userInput);
