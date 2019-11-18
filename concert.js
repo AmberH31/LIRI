@@ -8,8 +8,7 @@ function myConcert(userInput) {
   var URL =
     "https://rest.bandsintown.com/artists/" +
     userInput +
-    "/events?app_id=" +
-    keys.bandsInTown.id;
+    "/events?app_id=codingbootcamp";
 
   axios
     .get(URL)
