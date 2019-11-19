@@ -20,7 +20,12 @@ const userInput = process.argv.splice(3, process.argv.length).join(" ");
 switch (typeCommand) {
   // help
   case "help":
-    console.log("Please type the command!");
+    console.log("Please choose one of the commands!");
+    console.log("concert-this");
+    console.log("spotify-this-song");
+    console.log("movie-this");
+    console.log("do-what-it-says");
+
     break;
   //concert-this
   case "concert-this":

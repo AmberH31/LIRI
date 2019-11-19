@@ -388,3 +388,1353 @@ Venue Location: Foxborough, MA, United States
 Venue Time: 08/01/2020, 7:00 PM
 
 -----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: American Airlines Arena
+
+Venue Location: Miami, FL, United States
+
+Venue Time: 03/09/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Amway Center
+
+Venue Location: Orlando, FL, United States
+
+Venue Time: 03/10/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: PNC Arena
+
+Venue Location: Raleigh, NC, United States
+
+Venue Time: 03/12/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Wells Fargo Center
+
+Venue Location: Philadelphia, PA, United States
+
+Venue Time: 03/13/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Madison Square Garden
+
+Venue Location: New York, NY, United States
+
+Venue Time: 03/15/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Prudential Center
+
+Venue Location: Newark, NJ, United States
+
+Venue Time: 03/16/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Capital One Arena
+
+Venue Location: Washington, DC, United States
+
+Venue Time: 03/18/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: TD Garden
+
+Venue Location: Boston, MA, United States
+
+Venue Time: 03/19/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Barclays Center
+
+Venue Location: Brooklyn, NY, United States
+
+Venue Time: 03/20/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Little Caesars Arena
+
+Venue Location: Detroit, MI, United States
+
+Venue Time: 03/23/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: United Center
+
+Venue Location: Chicago, IL, United States
+
+Venue Time: 03/24/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Bankers Life Fieldhouse
+
+Venue Location: Indianapolis, IN, United States
+
+Venue Time: 03/25/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Bridgestone Arena
+
+Venue Location: Nashville, TN, United States
+
+Venue Time: 03/27/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Enterprise Center
+
+Venue Location: St. Louis, MO, United States
+
+Venue Time: 03/28/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: CHI Health Center Omaha
+
+Venue Location: Omaha, NE, United States
+
+Venue Time: 03/29/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Pepsi Center
+
+Venue Location: Denver, CO, United States
+
+Venue Time: 04/01/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The Forum
+
+Venue Location: Los Angeles, CA, United States
+
+Venue Time: 04/03/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The Forum
+
+Venue Location: Los Angeles, CA, United States
+
+Venue Time: 04/04/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The Forum
+
+Venue Location: Los Angeles, CA, United States
+
+Venue Time: 04/05/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Chase Center
+
+Venue Location: San Francisco, CA, United States
+
+Venue Time: 04/07/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Golden 1 Center
+
+Venue Location: Sacramento, CA, United States
+
+Venue Time: 04/08/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Tacoma Dome
+
+Venue Location: Tacoma, WA, United States
+
+Venue Time: 04/10/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Rogers Arena
+
+Venue Location: Vancouver, , Canada
+
+Venue Time: 04/11/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Arena VFG
+
+Venue Location: Tlajomulco De Zuñiga, , Mexico
+
+Venue Time: 05/25/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Palacio de los Deportes
+
+Venue Location: Mexico City, , Mexico
+
+Venue Time: 05/27/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Allianz Parque
+
+Venue Location: Sao Paulo, , Brazil
+
+Venue Time: 05/30/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Jeunesse Arena
+
+Venue Location: Rio De Janeiro, , Brazil
+
+Venue Time: 05/31/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: DIRECTV Arena
+
+Venue Location: Tortuguitas, , Argentina
+
+Venue Time: 06/02/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: DIRECTV Arena
+
+Venue Location: Tortuguitas, , Argentina
+
+Venue Time: 06/03/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Movistar Arena
+
+Venue Location: Santiago De Chile, , Chile
+
+Venue Time: 06/05/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Movistar Arena
+
+Venue Location: Bogotá, , Colombia
+
+Venue Time: 06/07/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: NOS Alive
+
+Venue Location: Algés, , Portugal
+
+Venue Time: 07/10/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Ziggo Dome
+
+Venue Location: Amsterdam, , Netherlands
+
+Venue Time: 07/13/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Mercedes-Benz Arena
+
+Venue Location: Berlin, , Germany
+
+Venue Time: 07/14/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Lanxess Arena
+
+Venue Location: Cologne, , Germany
+
+Venue Time: 07/15/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: MIND (Area Expo)
+
+Venue Location: Milano, , Italy
+
+Venue Time: 07/17/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Lollapalooza Paris
+
+Venue Location: Paris, , France
+
+Venue Time: 07/18/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Werchter Boutique
+
+Venue Location: Rotselaar, , Belgium
+
+Venue Time: 07/19/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Manchester Arena
+
+Venue Location: Manchester, , United Kingdom
+
+Venue Time: 07/21/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Manchester Arena
+
+Venue Location: Manchester, , United Kingdom
+
+Venue Time: 07/22/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Arena Birmingham
+
+Venue Location: Birmingham, , United Kingdom
+
+Venue Time: 07/24/2020, 5:30 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The O2
+
+Venue Location: London, , United Kingdom
+
+Venue Time: 07/26/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The O2
+
+Venue Location: London, , United Kingdom
+
+Venue Time: 07/27/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The O2
+
+Venue Location: London, , United Kingdom
+
+Venue Time: 07/29/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The O2
+
+Venue Location: London, , United Kingdom
+
+Venue Time: 07/30/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: American Airlines Arena
+
+Venue Location: Miami, FL, United States
+
+Venue Time: 03/09/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Amway Center
+
+Venue Location: Orlando, FL, United States
+
+Venue Time: 03/10/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: PNC Arena
+
+Venue Location: Raleigh, NC, United States
+
+Venue Time: 03/12/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Wells Fargo Center
+
+Venue Location: Philadelphia, PA, United States
+
+Venue Time: 03/13/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Madison Square Garden
+
+Venue Location: New York, NY, United States
+
+Venue Time: 03/15/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Prudential Center
+
+Venue Location: Newark, NJ, United States
+
+Venue Time: 03/16/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Capital One Arena
+
+Venue Location: Washington, DC, United States
+
+Venue Time: 03/18/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: TD Garden
+
+Venue Location: Boston, MA, United States
+
+Venue Time: 03/19/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Barclays Center
+
+Venue Location: Brooklyn, NY, United States
+
+Venue Time: 03/20/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Little Caesars Arena
+
+Venue Location: Detroit, MI, United States
+
+Venue Time: 03/23/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: United Center
+
+Venue Location: Chicago, IL, United States
+
+Venue Time: 03/24/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Bankers Life Fieldhouse
+
+Venue Location: Indianapolis, IN, United States
+
+Venue Time: 03/25/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Bridgestone Arena
+
+Venue Location: Nashville, TN, United States
+
+Venue Time: 03/27/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Enterprise Center
+
+Venue Location: St. Louis, MO, United States
+
+Venue Time: 03/28/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: CHI Health Center Omaha
+
+Venue Location: Omaha, NE, United States
+
+Venue Time: 03/29/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Pepsi Center
+
+Venue Location: Denver, CO, United States
+
+Venue Time: 04/01/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The Forum
+
+Venue Location: Los Angeles, CA, United States
+
+Venue Time: 04/03/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The Forum
+
+Venue Location: Los Angeles, CA, United States
+
+Venue Time: 04/04/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The Forum
+
+Venue Location: Los Angeles, CA, United States
+
+Venue Time: 04/05/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Chase Center
+
+Venue Location: San Francisco, CA, United States
+
+Venue Time: 04/07/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Golden 1 Center
+
+Venue Location: Sacramento, CA, United States
+
+Venue Time: 04/08/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Tacoma Dome
+
+Venue Location: Tacoma, WA, United States
+
+Venue Time: 04/10/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Rogers Arena
+
+Venue Location: Vancouver, , Canada
+
+Venue Time: 04/11/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Arena VFG
+
+Venue Location: Tlajomulco De Zuñiga, , Mexico
+
+Venue Time: 05/25/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Palacio de los Deportes
+
+Venue Location: Mexico City, , Mexico
+
+Venue Time: 05/27/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Allianz Parque
+
+Venue Location: Sao Paulo, , Brazil
+
+Venue Time: 05/30/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Jeunesse Arena
+
+Venue Location: Rio De Janeiro, , Brazil
+
+Venue Time: 05/31/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: DIRECTV Arena
+
+Venue Location: Tortuguitas, , Argentina
+
+Venue Time: 06/02/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: DIRECTV Arena
+
+Venue Location: Tortuguitas, , Argentina
+
+Venue Time: 06/03/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Movistar Arena
+
+Venue Location: Santiago De Chile, , Chile
+
+Venue Time: 06/05/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Movistar Arena
+
+Venue Location: Bogotá, , Colombia
+
+Venue Time: 06/07/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: NOS Alive
+
+Venue Location: Algés, , Portugal
+
+Venue Time: 07/10/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Ziggo Dome
+
+Venue Location: Amsterdam, , Netherlands
+
+Venue Time: 07/13/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Mercedes-Benz Arena
+
+Venue Location: Berlin, , Germany
+
+Venue Time: 07/14/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Lanxess Arena
+
+Venue Location: Cologne, , Germany
+
+Venue Time: 07/15/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: MIND (Area Expo)
+
+Venue Location: Milano, , Italy
+
+Venue Time: 07/17/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Lollapalooza Paris
+
+Venue Location: Paris, , France
+
+Venue Time: 07/18/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Werchter Boutique
+
+Venue Location: Rotselaar, , Belgium
+
+Venue Time: 07/19/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Manchester Arena
+
+Venue Location: Manchester, , United Kingdom
+
+Venue Time: 07/21/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Manchester Arena
+
+Venue Location: Manchester, , United Kingdom
+
+Venue Time: 07/22/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Arena Birmingham
+
+Venue Location: Birmingham, , United Kingdom
+
+Venue Time: 07/24/2020, 5:30 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The O2
+
+Venue Location: London, , United Kingdom
+
+Venue Time: 07/26/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The O2
+
+Venue Location: London, , United Kingdom
+
+Venue Time: 07/27/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The O2
+
+Venue Location: London, , United Kingdom
+
+Venue Time: 07/29/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The O2
+
+Venue Location: London, , United Kingdom
+
+Venue Time: 07/30/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: American Airlines Arena
+
+Venue Location: Miami, FL, United States
+
+Venue Time: 03/09/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Amway Center
+
+Venue Location: Orlando, FL, United States
+
+Venue Time: 03/10/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: PNC Arena
+
+Venue Location: Raleigh, NC, United States
+
+Venue Time: 03/12/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Wells Fargo Center
+
+Venue Location: Philadelphia, PA, United States
+
+Venue Time: 03/13/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Madison Square Garden
+
+Venue Location: New York, NY, United States
+
+Venue Time: 03/15/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Prudential Center
+
+Venue Location: Newark, NJ, United States
+
+Venue Time: 03/16/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Capital One Arena
+
+Venue Location: Washington, DC, United States
+
+Venue Time: 03/18/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: TD Garden
+
+Venue Location: Boston, MA, United States
+
+Venue Time: 03/19/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Barclays Center
+
+Venue Location: Brooklyn, NY, United States
+
+Venue Time: 03/20/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Little Caesars Arena
+
+Venue Location: Detroit, MI, United States
+
+Venue Time: 03/23/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: United Center
+
+Venue Location: Chicago, IL, United States
+
+Venue Time: 03/24/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Bankers Life Fieldhouse
+
+Venue Location: Indianapolis, IN, United States
+
+Venue Time: 03/25/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Bridgestone Arena
+
+Venue Location: Nashville, TN, United States
+
+Venue Time: 03/27/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Enterprise Center
+
+Venue Location: St. Louis, MO, United States
+
+Venue Time: 03/28/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: CHI Health Center Omaha
+
+Venue Location: Omaha, NE, United States
+
+Venue Time: 03/29/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Pepsi Center
+
+Venue Location: Denver, CO, United States
+
+Venue Time: 04/01/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The Forum
+
+Venue Location: Los Angeles, CA, United States
+
+Venue Time: 04/03/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The Forum
+
+Venue Location: Los Angeles, CA, United States
+
+Venue Time: 04/04/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The Forum
+
+Venue Location: Los Angeles, CA, United States
+
+Venue Time: 04/05/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Chase Center
+
+Venue Location: San Francisco, CA, United States
+
+Venue Time: 04/07/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Golden 1 Center
+
+Venue Location: Sacramento, CA, United States
+
+Venue Time: 04/08/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Tacoma Dome
+
+Venue Location: Tacoma, WA, United States
+
+Venue Time: 04/10/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Rogers Arena
+
+Venue Location: Vancouver, , Canada
+
+Venue Time: 04/11/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Arena VFG
+
+Venue Location: Tlajomulco De Zuñiga, , Mexico
+
+Venue Time: 05/25/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Palacio de los Deportes
+
+Venue Location: Mexico City, , Mexico
+
+Venue Time: 05/27/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Allianz Parque
+
+Venue Location: Sao Paulo, , Brazil
+
+Venue Time: 05/30/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Jeunesse Arena
+
+Venue Location: Rio De Janeiro, , Brazil
+
+Venue Time: 05/31/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: DIRECTV Arena
+
+Venue Location: Tortuguitas, , Argentina
+
+Venue Time: 06/02/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: DIRECTV Arena
+
+Venue Location: Tortuguitas, , Argentina
+
+Venue Time: 06/03/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Movistar Arena
+
+Venue Location: Santiago De Chile, , Chile
+
+Venue Time: 06/05/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Movistar Arena
+
+Venue Location: Bogotá, , Colombia
+
+Venue Time: 06/07/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: NOS Alive
+
+Venue Location: Algés, , Portugal
+
+Venue Time: 07/10/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Ziggo Dome
+
+Venue Location: Amsterdam, , Netherlands
+
+Venue Time: 07/13/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Mercedes-Benz Arena
+
+Venue Location: Berlin, , Germany
+
+Venue Time: 07/14/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Lanxess Arena
+
+Venue Location: Cologne, , Germany
+
+Venue Time: 07/15/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: MIND (Area Expo)
+
+Venue Location: Milano, , Italy
+
+Venue Time: 07/17/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Lollapalooza Paris
+
+Venue Location: Paris, , France
+
+Venue Time: 07/18/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Werchter Boutique
+
+Venue Location: Rotselaar, , Belgium
+
+Venue Time: 07/19/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Manchester Arena
+
+Venue Location: Manchester, , United Kingdom
+
+Venue Time: 07/21/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Manchester Arena
+
+Venue Location: Manchester, , United Kingdom
+
+Venue Time: 07/22/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Arena Birmingham
+
+Venue Location: Birmingham, , United Kingdom
+
+Venue Time: 07/24/2020, 5:30 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The O2
+
+Venue Location: London, , United Kingdom
+
+Venue Time: 07/26/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The O2
+
+Venue Location: London, , United Kingdom
+
+Venue Time: 07/27/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The O2
+
+Venue Location: London, , United Kingdom
+
+Venue Time: 07/29/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The O2
+
+Venue Location: London, , United Kingdom
+
+Venue Time: 07/30/2020, 7:00 PM
+
+-----------------------------------------
