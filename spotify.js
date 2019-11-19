@@ -9,9 +9,10 @@ function searchSpotify(userInput) {
     if (err) {
       return console.log("Error occurred: " + err);
     }
-
-    console.log(data.tracks.item[0]);
+    console.log(data.tracks.items[0]);
+    // JSON.stringify();
+    // JSON.parse();
   });
 }
 
-searchSpotify();
+module.exports = searchSpotify;

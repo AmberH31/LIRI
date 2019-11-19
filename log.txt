@@ -18,3 +18,373 @@ Venue Location: Dallas, TX, United States
 Venue Time: 02/01/2020, 5:45 PM
 
 -----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Capital's Jingle Bell Ball
+
+Venue Location: London, , United Kingdom
+
+Venue Time: 12/08/2019, 6:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Z100's Jingle Ball Presented by Capital One
+
+Venue Location: New York, NY, United States
+
+Venue Time: 12/13/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Capital One JamFest
+
+Venue Location: Atlanta, GA, United States
+
+Venue Time: 04/05/2020, 2:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Werchter Boutique
+
+Venue Location: Rotselaar, , Belgium
+
+Venue Time: 06/20/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Waldbühne Berlin
+
+Venue Location: Berlin, , Germany
+
+Venue Time: 06/24/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Oslo Sommertid
+
+Venue Location: Oslo, , Norway
+
+Venue Time: 06/26/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Roskilde Festival
+
+Venue Location: Roskilde, , Denmark
+
+Venue Time: 07/01/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Open’er Festival
+
+Venue Location: Powiat Pucki, , Poland
+
+Venue Time: 07/03/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Festival de Nîmes
+
+Venue Location: Nimes, , France
+
+Venue Time: 07/05/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: NOS Alive
+
+Venue Location: Algés, , Portugal
+
+Venue Time: 07/09/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Allianz Parque
+
+Venue Location: Sao Paulo, , Brazil
+
+Venue Time: 07/18/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Allianz Parque
+
+Venue Location: Sao Paulo, , Brazil
+
+Venue Time: 07/19/2020, 9:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Lover Fest West
+
+Venue Location: Los Angeles, CA, United States
+
+Venue Time: 07/25/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Lover Fest West
+
+Venue Location: Los Angeles, CA, United States
+
+Venue Time: 07/26/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Lover Fest East
+
+Venue Location: Foxborough, MA, United States
+
+Venue Time: 07/31/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Lover Fest East
+
+Venue Location: Foxborough, MA, United States
+
+Venue Time: 08/01/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Mandalay Bay Events Center
+
+Venue Location: Las Vegas, NV, United States
+
+Venue Time: 12/30/2019, 8:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Mandalay Bay Events Center
+
+Venue Location: Las Vegas, NV, United States
+
+Venue Time: 12/31/2019, 8:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Estadio Centenario
+
+Venue Location: Montevideo, , Uruguay
+
+Venue Time: 03/10/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Campo Argentino De Polo
+
+Venue Location: Buenos Aires, , Argentina
+
+Venue Time: 03/12/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Parque Salitre Magico
+
+Venue Location: Bogota, , Colombia
+
+Venue Time: 03/14/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Capital's Jingle Bell Ball
+
+Venue Location: London, , United Kingdom
+
+Venue Time: 12/08/2019, 6:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Z100's Jingle Ball Presented by Capital One
+
+Venue Location: New York, NY, United States
+
+Venue Time: 12/13/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Capital One JamFest
+
+Venue Location: Atlanta, GA, United States
+
+Venue Time: 04/05/2020, 2:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Werchter Boutique
+
+Venue Location: Rotselaar, , Belgium
+
+Venue Time: 06/20/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Waldbühne Berlin
+
+Venue Location: Berlin, , Germany
+
+Venue Time: 06/24/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Oslo Sommertid
+
+Venue Location: Oslo, , Norway
+
+Venue Time: 06/26/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Roskilde Festival
+
+Venue Location: Roskilde, , Denmark
+
+Venue Time: 07/01/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Open’er Festival
+
+Venue Location: Powiat Pucki, , Poland
+
+Venue Time: 07/03/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Festival de Nîmes
+
+Venue Location: Nimes, , France
+
+Venue Time: 07/05/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: NOS Alive
+
+Venue Location: Algés, , Portugal
+
+Venue Time: 07/09/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Allianz Parque
+
+Venue Location: Sao Paulo, , Brazil
+
+Venue Time: 07/18/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Allianz Parque
+
+Venue Location: Sao Paulo, , Brazil
+
+Venue Time: 07/19/2020, 9:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Lover Fest West
+
+Venue Location: Los Angeles, CA, United States
+
+Venue Time: 07/25/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Lover Fest West
+
+Venue Location: Los Angeles, CA, United States
+
+Venue Time: 07/26/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Lover Fest East
+
+Venue Location: Foxborough, MA, United States
+
+Venue Time: 07/31/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Lover Fest East
+
+Venue Location: Foxborough, MA, United States
+
+Venue Time: 08/01/2020, 7:00 PM
+
+-----------------------------------------

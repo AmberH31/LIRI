@@ -8,7 +8,7 @@ const searchSpotify = require("./spotify.js");
 // Requiring Concert function exported from concert.js
 const myConcert = require("./concert.js");
 // Requiring Movie function exported from movie.js
-// const myMovies = require("./movie.js");
+const searchMovies = require("./movie.js");
 
 // ----------------application runing---------------
 
@@ -21,15 +21,22 @@ switch (typeCommand) {
   // help
   case "help":
     console.log("Please type the command!");
+    break;
   //concert-this
   case "concert-this":
     myConcert(userInput);
     break;
   //spotify-this-song
-  case "spotify-this":
+  case "spotify-this-song":
     searchSpotify(userInput);
     break;
   //movie - this;
+  case "movie-this":
+    searchMovies(userInput);
+    break;
+  case "do-what-it-says":
+    doWhatItSays();
+    break;
 }
 
 // ----------------function---------------
@@ -40,10 +47,18 @@ function doWhatItSays() {
       return console.log(error);
     }
     var dataArr = data.split(",");
-    if (dataArr[0] === "concert-this") {
-      var concertName = dataArr[1].slice(1, -1);
-      console.log("Concert Name: " + concertName);
-      myConcert(concertName);
+    // console.log(dataArr);
+    var argument = dataArr[1].trim().slice(1, -1); //slice去掉兩個引號, -1最後一個不被包括
+    // console.log(argument);
+    switch (dataArr[0]) {
+      case "spotify-this-song":
+        console.log("This Song: " + argument);
+        myConcert(argument);
+        break;
+      // case "spotify-this":
+      //   console.log("Spotify Song" + argument);
+      //   searchSpotify(argument);
+      //   break;
     }
   });
 }
